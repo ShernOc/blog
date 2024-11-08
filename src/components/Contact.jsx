@@ -6,7 +6,7 @@ function Contact() {
             <div>
                 <h2>Contact Me</h2>
                 <form action="" id="forminput">
-                    <h3 className="lableinput">Leave a Message</h3>
+                    <h3 className="labelinput">Leave a Message</h3>
                     <label htmlFor="name">Your Name</label>
                     <input type="text" />
                     <br />
