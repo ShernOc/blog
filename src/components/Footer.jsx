@@ -18,7 +18,7 @@ function Footer(){
                 <li><FontAwesomeIcon icon={faFacebook} /> +254-715869553</li>
                 <li><a href="mailto:sherlynea8622@gmail.com"><FontAwesomeIcon icon={faEnvelope} /> sherlynea8622@gmail.com</a>
                         </li>
-                <li><a href="#" target="_blank"><FontAwesomeIcon icon={faLinkedin} /> Linkedin</a>
+                <li><a href="#" target="_blank"><FontAwesomeIcon icon={faLinkedin} />Linkedin</a>
                     </li>
                 <li><a href="https://github.com/ShernOc" target="_blank"><FontAwesomeIcon icon={faGithub} /> GitHub</a>
                     </li>
