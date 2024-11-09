@@ -11,7 +11,7 @@ function Contact() {
                     <input type="text" />
                     <br />
                     <label htmlFor="email">Email Address</label>
-                    <input type="text" required />
+                    <input type="email" required />
                     <br />
                     <label htmlFor="message">Leave a Comment</label>
                     <textarea name="message" id="message"></textarea>

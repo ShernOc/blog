@@ -1,12 +1,18 @@
 #root {
-  text-align:center;
+  align-items:center;
   padding: 10px;
+  text-align: center;
 }
 
 li, #contact {
   list-style: none;
   display: inline;
   padding:15px;
+}
+p{
+  text-align: justify;
+  text-justify:inter-word;
+  justify-content:space-evenly;
 }
 
 form{

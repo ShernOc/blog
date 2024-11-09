@@ -4,8 +4,8 @@ function Navbar() {
         <>
             <nav id = "navbar">
                 <li><a href="./">Home</a></li>
-                <li><a href="./contact">Contact</a></li>
-                <li><a href="./about ">About</a></li>
+                <li><a href="./src/components/Contact.jsx">Contact</a></li>
+                <li><a href="./">About</a></li>
             </nav>
         </>
     )
