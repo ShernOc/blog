@@ -5,7 +5,7 @@ function Props(prop){
         <h2>PROPS</h2>
         {prop.titlep}  
 <br />
-<b>Question is how do i style the prop? </b>
+<b>The question is, how do i style a prop? </b>
 <p><b>Recap:</b>We know how a react component function is and how its created do we know how information is passed? or how do we make it more functional?. Thats whats we are going to learn in this section. 
 <br /> 
 We have been passing information/data from the Child Components to the Parent Component. But now the question is how do we Pass or transfer the information/data from the Parent to the child components ? 
